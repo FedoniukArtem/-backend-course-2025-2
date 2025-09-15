@@ -1,0 +1,1 @@
+course://web.backend?name="FedoniukArtem"&group="ФЕІ-24с"&subgroup="Підгрупа 1"#fedonyukartem

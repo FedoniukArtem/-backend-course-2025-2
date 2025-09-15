@@ -1,2 +1,2 @@
-course://web.backend?name="FedoniukArtem"&group="ФЕІ-24с"&subgroup="Підгрупа 1"#fedonyukartem
+course://web.backend?name=%22%D0%A4%D0%B5%D0%B4%D0%BE%D0%BD%D1%8E%D0%BA%20%D0%90%D1%80%D1%82%D0%B5%D0%BC%22&group=%22%D0%A4%D0%95%D0%86-23%D1%81%22&subgroup=%22%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%201%22#fedonyukartem
 https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?valcode=USD&date=20220707&json
